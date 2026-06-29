@@ -1,0 +1,334 @@
+ID,Name,Glottocode,Family,Latitude,Longitude
+l1,Apalai,apal1257,Cariban,1.49792,-54.7457
+l2,Barasano,bara1380,Tucanoan,0.02193,-70.808
+l3,Bará,poka1242,Tucanoan,0.35794,-69.5607
+l4,Bora,bora1263,Boran,-2.000259,-72.257066
+l5,Carapana,cara1272,Tucanoan,0.06168,-69.6465
+l6,Cayuvava,cayu1262,Isolate,-13.2482,-65.4822
+l7,Central Aymara,cent2142,Aymaran,-17.0,-68.5
+l8,Chipaya,chip1262,Uru-Chipaya,-18.73951,-67.89633
+l9,Chorote Iyojwa'Ja,iyoj1235,Matacoan,-22.1896,-63.2383
+l10,Cubeo,cube1242,Tucanoan,1.32382,-70.1939
+l11,Cuiva,cuib1242,Guahiboan,6.19829,-69.8197
+l12,Desano,desa1247,Tucanoan,0.58157,-69.4955
+l13,Epena,epen1239,Chocoan,4.25877,-77.3566
+l14,Eñepa,enap1235,Cariban,6.95035,-65.8483
+l15,Guayabero,guay1257,Guahiboan,2.8969,-71.844
+l16,Itonama,iton1250,Isolate,-12.80431,-64.35748
+l17,Kalapalo,kuik1246,Cariban,-12.3035,-53.2261
+l18,Kariña,gali1262,Cariban,5.83772,-56.8323
+l19,Katukina,pano1254,Panoan,-7.97456,-71.56151
+l20,Kokama,coca1259,Tupian,-4.5,-74.0
+l21,Koreguaje,kore1283,Tucanoan,0.92316,-75.3475
+l22,Kotiria,guan1269,Tucanoan,1.07554,-69.5705
+l23,Kwazá,kwaz1243,Isolate,-11.6667,-61.1833
+l24,Lokono,araw1276,Arawakan,5.64295,-56.9243
+l25,Maca,maca1260,Matacoan,-25.0119,-57.3694
+l26,Macaguan,maca1259,Guahiboan,6.34582,-71.2671
+l27,Maihiki,orej1242,Tucanoan,-2.86315,-72.4926
+l28,Makiritare,maqu1238,Cariban,4.70705,-64.3877
+l29,Makuna,macu1260,Tucanoan,-0.14459,-70.0749
+l30,Makushi,macu1259,Cariban,4.31861,-60.2209
+l31,Mapoyo,mapo1246,Cariban,5.96952,-67.2581
+l32,Mapudungun,mapu1245,Araucanian,-38.7392,-71.277
+l33,Matses,mats1244,Panoan,-5.73914,-72.6281
+l34,Movima,movi1243,Isolate,-13.8115,-65.6348
+l35,Nadëb/Roçado Dialect,roca1234,Naduhup,,
+l36,Ninam,nina1238,Yanomaman,4.03894,-62.7801
+l37,Nivaclé,niva1238,Matacoan,-22.8557,-61.7606
+l38,Quechua Ayacuchano,ayac1239,Quechuan,-13.84714,-74.32246
+l39,Resígaro,resi1247,Arawakan,-1.169535,-71.60524
+l40,Secoya,seco1241,Tucanoan,-0.459785,-75.5547
+l41,Sikuani,guah1255,Guahiboan,5.81736,-68.9839
+l42,Siona,sion1247,Tucanoan,0.31733,-76.0237
+l43,Siriano,siri1274,Tucanoan,0.436515,-70.184
+l44,Suyá,suya1243,Macro-Jean,-11.5178,-53.0743
+l45,Tanimuca,tani1258,Tucanoan,,
+l46,Tatuyo,tatu1247,Tucanoan,0.55582,-70.5327
+l47,Tikuna,ticu1245,Ticuna-Yuri,-3.66289,-69.8723
+l48,Tiriyó,trio1238,Cariban,2.53616,-55.7599
+l49,Tukano,tuca1252,Tucanoan,0.579755,-69.5763
+l50,Tuyuka,tuyu1244,Tucanoan,0.39441,-70.043515
+l51,Urarina,urar1246,Isolate,-4.44006,-75.4211
+l52,Wai Wai,waiw1244,Cariban,1.50881,-59.1417
+l53,Waikhana,pira1254,Tucanoan,0.50714,-69.5032
+l54,Waimaja,waim1255,Tucanoan,0.30416,-70.1644
+l55,Waimiri Atroari,waim1253,Cariban,-0.61832,-60.4259
+l56,Wari,wari1268,Chapacuran,-10.69948,-64.56152
+l57,Wayampi,waya1270,Tupian,1.73817,-52.6887
+l58,Wayana,waya1269,Cariban,2.77537,-54.4429
+l59,Wichí Lhamtés Güisnay,wich1264,Matacoan,-23.1633,-62.1757
+l60,Yagua,yagu1244,Peba-Yaguan,-3.42913,-72.2186
+l61,Yanomam,yano1261,Yanomaman,1.67967,-64.8781
+l62,Yanomami,yano1262,Yanomaman,2.48999,-62.8522
+l63,Yuruti,yuru1263,Tucanoan,0.735585,-69.6955
+l64,Achagua,acha1250,Arawakan,4.38649,-72.2005
+l65,Aché,ache1246,Tupian,-25.5865,-56.4697
+l66,Aguaruna,agua1253,Chicham,-5.30044,-77.9218
+l67,Akawaio,akaw1241,Cariban,,
+l68,Akawaio/Ingariko Dialect,akaw1239,Cariban,6.16277,-60.862
+l69,Andoke,ando1257,Isolate,,
+l70,Araona,arao1248,Tacanan,-12.4242,-67.7293
+l71,Arutani,arut1244,Isolate,4.0673594,-62.8676118
+l72,Ashuar,achu1248,Chicham,-2.82646,-77.2641
+l73,Baniwa,bani1255,Arawakan,2.17859,-67.7704
+l74,Baure,baur1253,Arawakan,-13.61,-63.68
+l75,Camsa,cams1241,Isolate,1.14537,-76.8931
+l76,Candoshi-Shapra,cand1248,Isolate,-4.23835,-76.9347
+l77,Canela,cane1242,Macro-Jean,-6.10712,-45.1299
+l78,Cavineña,cavi1250,Tacanan,-13.3544,-66.6277
+l79,Chiriguano,east2555,Tupian,-20.42,-63.37
+l80,Cofán,cofa1242,Isolate,0.276675,-77.0643
+l81,Djeoromitxi,djeo1235,Macro-Jean,-12.038,-64.6694
+l82,Dâw,daww1239,Naduhup,-0.1177,-67.2934
+l83,Ese Ejja/Huarayo,esee1248,Tacanan,-11.7268,-67.515
+l84,Huambisa,huam1247,Chicham,-3.99109,-77.9797
+l85,Hup,hupd1244,Naduhup,0.58622,-69.8359
+l86,Ingá,inga1252,Quechuan,1.00313,-76.8606
+l87,Iquito,iqui1243,Zaparoan,-3.31233,-73.97046
+l88,Kabiyari,cabi1241,Arawakan,0.16101,-71.0622
+l89,Kaingang,kain1272,Macro-Jean,-27.7671,-52.5394
+l90,Kakua,cacu1241,Kakua-Nukak,0.88778,-69.5659
+l91,Karajá,kara1500,Macro-Jean,-11.1881,-50.3492
+l92,Karitiana,kari1311,Tupian,-9.37937,-64.1522
+l93,Minica Witoto,mini1256,Witotoan,-1.54535,-73.1107
+l94,Mosetén-Chimané,mose1249,Isolate,-14.64448,-67.83756
+l95,Muinane,muin1242,Boran,-0.8652,-72.4249
+l96,Muisca,chib1270,Chibchan,6.24999,-74.1666
+l97,Murui Witoto,muru1274,Witotoan,-1.13669,-73.8331
+l98,Máku,maku1246,Isolate,3.969231,-64.235892
+l99,Napo Lowland Quichua,napo1242,Quechuan,-0.072525,-76.3889
+l100,Nheengatu,nhen1239,Tupian,1.04503,-66.9646
+l101,Northern Emberá,nort2972,Chocoan,7.12761,-77.574
+l102,Nukak,nuka1242,Kakua-Nukak,2.65939,-71.4629
+l103,Nɨpode Witoto,nupo1240,Witotoan,-2.34495,-70.9559
+l104,Ocaina,ocai1244,Witotoan,-2.159,-72.1422
+l105,Paraguayan Guaraní,para1311,Tupian,-25.60551,-57.08816
+l106,Paresi,pare1272,Arawakan,-14.5929,-57.4059
+l107,Piapoco,piap1246,Arawakan,4.37718,-68.5953
+l108,Piaroa,piar1243,Saliban,4.41805,-67.7574
+l109,Playero,play1240,Guahiboan,6.90948,-71.0036
+l110,Puinave,puin1248,Isolate,3.92974,-67.6886
+l111,Páez,paez1247,Isolate,2.61516,-76.31254
+l112,Sanumá,sanu1240,Yanomaman,4.5,-64.5
+l113,Sape,sape1238,Isolate,4.0735661,-62.9666521
+l114,Sirionó,siri1273,Tupian,-15.5298,-63.9688
+l115,Sáliva,sali1298,Saliban,5.30115,-69.3843
+l116,Tacana,taca1256,Tacanan,-13.39249,-68.04056
+l117,Tariana,tari1256,Arawakan,0.440205,-68.9042
+l118,Taushiro,taus1253,Isolate,-3.22497,-75.5603
+l119,Wapishana,wapi1253,Arawakan,2.58744,-59.8021
+l120,Warao,wara1303,Isolate,7.50851,-59.3528
+l121,Yabarana,yaba1248,Cariban,5.32692,-66.276
+l122,Yavitero,yavi1245,Arawakan,,
+l123,Yuhup,yuhu1238,Naduhup,0.2485,-69.8079
+l124,Yukpa,yukp1241,Cariban,9.67534,-73.0557
+l125,Yukuna,yucu1253,Arawakan,-0.76075,-71.0033
+l126,Záparo,zapa1253,Zaparoan,-1.99871,-76.364
+l127,Ayoreo,ayor1240,Zamucoan,-19.220055,-60.217495
+l128,Bare,bare1276,Arawakan,1.91649,-66.828
+l129,Barí,bari1297,Chibchan,9.08497,-72.9353
+l130,Cha'Palaa,chac1249,Barbacoan,0.71489,-79.0508
+l131,Chácobo,chac1251,Panoan,-12.133,-66.7164
+l132,Ese Ejja,esee1248,Tacanan,-11.7268,-67.515
+l133,Ignaciano,igna1246,Arawakan,-15.1188,-65.3993
+l134,Kakataibo,cash1251,Panoan,-8.70232,-75.4206
+l135,Kamayurá,kama1373,Tupian,-12.2661,-53.4651
+l136,Lengua,leng1262,Enlhet-Enenlhet,,
+l137,Mandawaka,mand1448,Arawakan,1.48,-66.52
+l138,Mocoví,moco1246,Guaicuruan,-28.097,-60.4145
+l139,Nadëb/Rio Negro Dialect,rion1246,Naduhup,,
+l140,Pacahuara,paca1246,Panoan,-11.9968,-65.5568
+l141,Pemon,pemo1248,Cariban,4.97031,-61.4033
+l142,Pilagá,pila1245,Guaicuruan,-25.0058,-60.1537
+l143,Qawasqar,qawa1238,Kawesqaran,-49.303195,-74.707536
+l144,Sanapaná/Dialect Angaité,anga1316,Enlhet-Enenlhet,-22.85,-58.45
+l145,Sanapaná/Dialect Enlhet,sana1298,Enlhet-Enenlhet,-22.49,-58.38
+l146,Selknam,onaa1245,Chonan,-54.0,-68.5
+l147,Shipibo-Konibo,ship1254,Panoan,-7.17105,-74.8219
+l148,Southern Pastaza Quechua,sout2990,Quechuan,-3.32733,-76.527
+l149,Tehuelche,tehu1242,Chonan,-47.5796,-68.3235
+l150,Toba,toba1269,Guaicuruan,-23.77,-61.96
+l151,Trinitario,trin1278,Arawakan,,
+l152,Trumai,trum1247,Isolate,-11.8119,-53.5717
+l153,Wayuu,wayu1243,Arawakan,11.395566,-72.199791
+l154,Yaminahua,yami1256,Panoan,-9.8846,-71.5964
+l155,Yine,yine1238,Arawakan,-11.1086,-73.3087
+l156,Waurá,waur1244,Arawakan,-13.296,-53.6971
+l157,Ache,ache1246,Tupian,-25.5865,-56.4697
+l158,Akuntsu,akun1241,Tupian,-12.8322,-60.9716
+l159,Amanaye,aman1266,Tupian,-3.79772,-48.6613
+l160,Amondawa,amun1246,Tupian,-9.04023,-62.3064
+l161,Anambe,anam1249,Tupian,-2.71119,-49.303
+l162,Apiaka,apia1248,Tupian,-7.84711,-57.91
+l163,Araweté,araw1273,Tupian,-4.90246,-52.5001
+l164,Asuriní Tocantins,toca1235,Tupian,-3.59359,-49.8991
+l165,Asuriní Xingu,xing1248,Tupian,-4.13463,-52.321
+l166,Awetí,awet1244,Tupian,-12.381944,-53.391944
+l167,Gavião,gavi1246,Tupian,-10.7235,-61.6752
+l168,Guajajara,guaj1255,Tupian,-4.69461,-45.7081
+l169,Guajá,guaj1256,Tupian,-3.93574,-46.3683
+l170,Guaraní,para1311,Tupian,-25.60551,-57.08816
+l171,Juruna,juru1256,Tupian,-10.9354,-53.3472
+l172,Ka'Apor,urub1250,Tupian,-2.46455,-46.2204
+l173,Kaiowa,kaiw1246,Tupian,-24.589,-54.6815
+l174,Kamajura,kama1373,Tupian,-12.2661,-53.4651
+l175,Karo,karo1305,Tupian,-10.3342,-61.5691
+l176,Kayabi,kaya1329,Tupian,-11.2747,-55.5479
+l177,Kuruaya,kuru1309,Tupian,-7.30696,-55.17252
+l178,Mawe,sate1243,Tupian,-3.63897,-56.8749
+l179,Mbya,mbya1239,Tupian,-26.0188,-52.711
+l180,Mundurukú,mund1330,Tupian,-8.41095,-57.691
+l181,Omagua,omag1248,Tupian,-3.526,-69.1667
+l182,Parakana,para1312,Tupian,-4.64681,-50.0621
+l183,Parintintin,tenh1241,Tupian,-7.92626,-61.936
+l184,Siriono,siri1273,Tupian,-15.5298,-63.9688
+l185,Surui-Aikewara,suru1261,Tupian,-5.9271,-48.588
+l186,Surui-Paiter,suru1262,Tupian,-11.0989,-61.2818
+l187,Tapiete,tapi1253,Tupian,-21.4169,-62.684
+l188,Tapirapé,tapi1254,Tupian,-10.5373,-50.5438
+l189,Teko,emer1243,Tupian,3.23694,-52.3699
+l190,Tembe,temb1276,Tupian,-2.6123,-48.2359
+l191,Tupinambá,tupi1273,Tupian,-22.807778,-42.106389
+l192,Tupí Austral,tupi1274,Tupian,-23.95,-46.38
+l193,Turiwara,turi1247,Tupian,-2.0,-49.5
+l194,Urueuwauwau,urue1240,Tupian,-10.9176,-63.8086
+l195,Warazu,paus1244,Tupian,-12.8553,-63.1903
+l196,Wayoro,wayo1238,Tupian,-12.6945,-61.3064
+l197,Yuki,yuqu1240,Tupian,-16.7875,-64.9438
+l198,Zo'E,zoee1240,Tupian,-1.77208,-55.50746
+l199,Zoro,gavi1246,Tupian,-10.7235,-61.6752
+l200,Ñandeva,chir1286,Tupian,-25.6521,-55.051
+l201,Arikem,arik1264,Tupian,-8.924,-63.742
+l202,Arua,arua1261,Tupian,-12.1186,-62.4357
+l203,Cinta-Larga,cint1239,Tupian,-10.5879,-60.8312
+l204,Mekens,saki1248,Tupian,-13.054,-62.0927
+l205,Monde,sala1273,Tupian,-12.0499,-61.25
+l206,Purubora,puru1264,Tupian,-11.4226,-62.4358
+l207,Tupari,tupa1250,Tupian,-11.8884,-62.2544
+l208,Xipaya,xipa1240,Tupian,-4.133,-49.948
+l209,Kepkiriwat,kepk1241,Tupian,-11.663,-61.246
+l210,Makurap,maku1278,Tupian,-11.8701,-64.3201
+l211,Urumi,urum1250,Tupian,-9.08,-63.848
+l212,Xeta,xeta1241,Tupian,-24.9408,-52.2266
+l213,Jiahoi,diah1239,Tupian,-7.9939,-62.1936
+l214,Jora,jora1240,Tupian,-15.7492,-63.2094
+l215,Aweti,awet1244,Tupian,-12.381944,-53.391944
+l216,Amonda,amun1246,Tupian,-9.04023,-62.3064
+l217,Apiaká,apia1248,Tupian,-7.84711,-57.91
+l218,Aruá,arua1261,Tupian,-12.1186,-62.4357
+l219,Asurini,toca1235,Tupian,-3.59359,-49.8991
+l220,Asurini Xingu,xing1248,Tupian,-4.13463,-52.321
+l221,Avacanoeiro,avac1239,Tupian,-13.6081,-48.1336
+l222,Emerillon,emer1243,Tupian,3.23694,-52.3699
+l223,Guarani Antigo,oldp1258,Tupian,,
+l224,Guarani Paraguay,para1311,Tupian,-25.60551,-57.08816
+l225,Guaranimbya,mbya1239,Tupian,-26.0188,-52.711
+l226,Guarayo,guar1292,Tupian,-15.8247,-61.6934
+l227,Jurúna,juru1256,Tupian,-10.9354,-53.3472
+l228,Kuruáya,kuru1309,Tupian,-7.30696,-55.17252
+l229,Káro,karo1305,Tupian,-10.3342,-61.5691
+l230,Mawé,sate1243,Tupian,-3.63897,-56.8749
+l231,Mekéns,saki1248,Tupian,-13.054,-62.0927
+l232,Parintintín,pari1258,Tupian,,
+l233,Salamãy,sala1273,Tupian,-12.0499,-61.25
+l234,Suruí,suru1262,Tupian,-11.0989,-61.2818
+l235,Tenharim,nucl1663,Tupian,,
+l236,Tuparí,tupa1250,Tupian,-11.8884,-62.2544
+l237,Tupí,tupi1273,Tupian,-22.807778,-42.106389
+l238,Urubú-Ka’Apór,urub1250,Tupian,-2.46455,-46.2204
+l239,Wayoró,wayo1238,Tupian,-12.6945,-61.3064
+l240,Zoró,zoro1244,Tupian,-10.173,-59.456
+l241,Aure Aura,aura1243,Tupian,-4.137,-46.792
+l242,Anambe Ehrenreich,anam1251,Tupian,,
+l243,Parakanã,para1312,Tupian,-4.64681,-50.0621
+l244,Juma,juma1249,Tupian,-7.27501,-64.0998
+l245,Urubukaapor,urub1250,Tupian,-2.46455,-46.2204
+l246,Wayampí,waya1270,Tupian,1.73817,-52.6887
+l247,Akuntsú,akun1241,Tupian,-12.8322,-60.9716
+l248,Karitiána,kari1311,Tupian,-9.37937,-64.1522
+l249,Makuráp,maku1278,Tupian,-11.8701,-64.3201
+l250,Puruborá,puru1264,Tupian,-11.4226,-62.4358
+l251,Tembé,temb1276,Tupian,-2.6123,-48.2359
+l252,Xipáya,xipa1240,Tupian,-4.133,-49.948
+l253,Kayabí,kaya1329,Tupian,-11.2747,-55.5479
+l254,Cojubim,kuyu1236,Chapacuran,-11.75,-64.0
+l255,Moré,itor1239,Chapacuran,,
+l256,Oro Win,orow1243,Chapacuran,-10.737,-64.0299
+l257,Torá,tora1263,Chapacuran,-6.19532,-61.7416
+l258,Wanyam,wany1246,Chapacuran,-12.1,-63.1
+l259,Wari',wari1268,Chapacuran,-10.69948,-64.56152
+l260,Jarú,yaru1257,Chapacuran,-10.25,-62.0
+l261,Urupá,urup1245,Chapacuran,-10.25,-62.75
+l262,Guayaki,ache1246,Tupian,-25.5865,-56.4697
+l263,Anambé,anam1249,Tupian,-2.71119,-49.303
+l264,Kamayura,kama1373,Tupian,-12.2661,-53.4651
+l265,Kitemoka,kite1237,Chapacuran,-16.0,-62.75
+l266,Tapakura,chap1269,Chapacuran,-14.8,-62.2
+l267,Takunjape,tacu1234,Tupian,-4.562946,-53.750438
+l268,Aruashi,arua1262,Tupian,,
+l269,Anauyá,anau1243,Arawakan,1.480584,-65.413237
+l270,Apurinã,apur1254,Arawakan,-8.21692,-66.7714
+l271,Araicu,arai1239,Arawakan,-3.104315,-67.2052
+l272,Arhuaco,arhu1242,Chibchan,10.7018,-73.6363
+l273,Aruan,arua1264,Arawakan,-0.608631,-50.123291
+l274,Asháninka,asha1243,Arawakan,-11.9311,-73.9073
+l275,Avane,bani1254,Arawakan,5.26123,-67.5633
+l276,Baniwa Do Icana,bani1255,Arawakan,2.17859,-67.7704
+l277,Baré,bare1276,Arawakan,1.91649,-66.828
+l278,Boruca,boru1252,Chibchan,8.88093,-83.2124
+l279,Bribri,brib1243,Chibchan,9.39794,-83.0539
+l280,Buglere,bugl1243,Chibchan,8.57695,-81.25648
+l281,Cabiyarí,cabi1241,Arawakan,0.16101,-71.0622
+l282,Cabécar,cabe1245,Chibchan,9.67031,-83.4102
+l283,Caquinte,caqu1242,Arawakan,-11.4812,-73.4451
+l284,Cariai,cari1280,Arawakan,-1.072848,-62.887131
+l285,Central Tunebo,cent2150,Chibchan,6.8867,-72.097
+l286,Chamicuro,cham1318,Arawakan,-5.1149,-75.6778
+l287,Chibcha,chib1270,Chibchan,6.24999,-74.1666
+l288,Chimila,chim1309,Chibchan,10.1902,-74.2559
+l289,Cogui,cogu1240,Chibchan,10.9485,-73.8043
+l290,Curripaco,curr1243,Arawakan,0.69618,-67.5028
+l291,Dorasque,dora1242,Chibchan,8.567442,-82.375717
+l292,Enawené-Nawé,enaw1238,Arawakan,-12.4302,-58.9802
+l293,Garifuna,gari1256,Arawakan,15.3529,-86.9091
+l294,Guinau,guin1258,Arawakan,4.797607,-64.73877
+l295,Island Carib,isla1278,Arawakan,15.364795,-61.342957
+l296,Iñapari,inap1243,Arawakan,-12.4653,-69.3083
+l297,Jumana,juma1250,Arawakan,-1.930054,-68.295609
+l298,Kaishana,kais1242,Arawakan,-2.171598,-67.319199
+l299,Kinikinao,guan1270,Arawakan,-19.1667,-54.0333
+l300,Machiguenga,mach1267,Arawakan,-12.1291,-72.5017
+l301,Machinere,mach1268,Arawakan,-10.661655,-70.208108
+l302,Maipure,maip1246,Arawakan,4.8,-67.5
+l303,Malayo,mala1522,Chibchan,10.9286,-73.4056
+l304,Maléku Jaíka,male1297,Chibchan,10.7485,-84.7318
+l305,Manao,mana1299,Arawakan,-0.540066,-64.5186
+l306,Mandahuaca,mand1448,Arawakan,1.48,-66.52
+l307,Mapidian-Mawayana,mapi1252,Arawakan,1.190187,-58.585983
+l308,Maragua,mara1409,Arawakan,-3.0,-67.512818
+l309,Marawan,mara1408,Arawakan,3.9,-51.8
+l310,Mariate,uain1239,Arawakan,-1.676121,-71.149307
+l311,Mehináku,mehi1240,Arawakan,-12.5364,-53.521
+l312,Ngäbere,ngab1239,Chibchan,8.8251,-82.3911
+l313,Nomatsiguenga,noma1263,Arawakan,-11.5349,-74.4371
+l314,Palikúr,pali1279,Arawakan,3.63993,-51.6246
+l315,Paraujano,para1316,Arawakan,10.8427,-71.8399
+l316,Parecís,pare1272,Arawakan,-14.5929,-57.4059
+l317,Passe,pass1250,Arawakan,-2.596949,-68.468643
+l318,Pech,pech1241,Chibchan,15.8033,-85.558
+l319,Rama,rama1270,Chibchan,11.5007,-83.8571
+l320,Resigaro,resi1247,Arawakan,-1.169535,-71.60524
+l321,San Blas Kuna,sanb1242,Chibchan,9.15686,-78.3075
+l322,Saraveca,sara1331,Arawakan,-16.07,-57.8
+l323,Taino,tain1254,Arawakan,18.2836,-66.8042
+l324,Terena,tere1281,Arawakan,,
+l325,Teribe,teri1250,Chibchan,9.067,-82.9631
+l326,Trinitario,trin1274,Arawakan,-15.3331,-65.4096
+l327,Wainuma,uain1239,Arawakan,-1.676121,-71.149307
+l328,Warekena Velha,ware1255,Arawakan,2.904099,-67.092099
+l329,Xiriâna,xiri1243,Arawakan,0.83868,-63.452927
+l330,Yanesha',yane1238,Arawakan,-10.5454,-75.315
+l331,Yavitero,yavi1244,Arawakan,2.924844,-67.438886
+l332,Yawalapití,yawa1261,Arawakan,-12.5104,-53.4236
+l333,Yucuna,yucu1253,Arawakan,-0.76075,-71.0033
