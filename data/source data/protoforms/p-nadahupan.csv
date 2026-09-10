@@ -1,0 +1,592 @@
+No.,FORM,Gloss,Scientific name
+1,*p'âʔ,beiju,
+2,*wêtʼ,comida,
+3,*dũ̂h,goma,
+4,*dudud,girino,
+5,*cʼâ jo,rã (sp.),
+6,*woh,rã (sp.),
+7,*jɤk,rã (sp.),Leptodactylus sp.
+8,*jǔʔ,rã (sp.),
+9,*kokʼ,rã (sp.),
+10,*pɤ̌ʔ,sapo,fam. dos bufonídeos
+11,*hũ̂h,animais de caça,
+12,*tâko,anta,Tapirus terrestris
+13,*kakǒc,cuandu 1,Coendou prehensilis
+14,*pûg,cuandu 2,Coendou prehensilis
+15,*bẽ̂t,cutia 1,Dasyprocta fuliginosa
+16,*bĩjã̂w,cutia 2,Dasyprocta fuliginosa
+17,*k’ac’aʔ,cutiuaia 1,Myoprocta pratti
+18,*p’ɤg,cutiuaia 2,Myoprocta pratti
+19,*bẽhẽ̂d,jupará,Potus flavus
+20,*wãc’õk’,jupará,Bassaricyon alleni
+21,*ʔajôk’,lontra,Pteronura brasiliensis
+22,*cǐciʔ,macaco (sp de sagüi),Saguinus inustus
+23,*ʔoh,macaco-barrigudo,Lagothrix lagotricha
+24,*hêwo,macaco-caiarara,Cebus albifrons
+25,*bã̂jo,macaco-caiarara,Cebus olivaceus
+26,*barǐt’,macaco-de-cheiro,Saimiri sciureus
+27,*p’iɟo,macaco-de-cheiro,Saimiri sciureus
+28,*kũjkũ̌jiʔ,macaco-da-noite,Aotus vociferans
+29,*tûg,macaco-guariba,Alouatta seniculus
+30,*jawâco,macaco-prego,Cebus apella
+31,*ʔẽ̂c,macaco uacari-preto,Cacajao melanocephalus
+32,*k’ûk’oʔ,macaco zogue-zogue,Callicebus torquatus
+33,*cɯp’ɯx,morcego 1,Desmodus rotundus
+34,*wɤb,morcego 2,Desmodus rotundus
+35,*cáʔwã̂ji,mucura,Didelphis sp.
+36,*jãʔã̌b,onça,Panthera onca
+37,*paʔ,paca,Agouti paca
+38,*tohbẽt,porco,"Tayassu pecari, Tayassu tajacu"
+39,*cûh,quati,Nasua nasua
+40,*jõd,tamanduá,Tamandua tridactyla
+41,*xûd,tamanduá 1,Myrmecophaga tridactyla
+42,*bɯ̌g,tamanduá 2,Myrmecophaga tridactyla
+43,*jêwo,tatu-galinha 1,Dasypus novemcinctus
+44,*wêciʔ,tatu-galinha 2,Dasypus novemcinctus
+45,*ʔõ̌k’,tatu canastra,Priodontes maximus
+46,*bõhõjc’ǎh,veado-catingueiro,Mazaca gouazoubira
+47,*bõhõjhɤ̃w,veado-mateiro,Mazaca americana
+48,*tʼũb,cauda,
+49,*cã̂dãʔ,chifre,
+50,*pʼɯk,couro ou pele,
+51,*dãgi,gordura 1,
+52,*cɯ̂j,gordura 2,
+53,*tawêto,pássaro (genérico),Columbina minuta
+54,*jâbo,araçari,Pteroglossus sp.
+55,*k’ɤrɤ̂c’,araquã,Ortalis motmot
+56,*jǎk’,araracanga 1,Ara macao
+57,*k’aʔroʔ,araracanga 2,Ara macao
+58,*kawet’,arara-vermelha,Ara chloroptera
+59,*c’ǐp,beija-flor 1,família dos troquilídeos
+60,*cuguʔ,beija-flor 2,família dos troquilídeos
+61,*pɤpɤp,coruja 1,gênero otus
+62,*wôr,coruja 2,gênero otus
+63,*kujûjuʔ,cujubim,Pipile pipile
+64,*moh,garça,família dos ardeídeos
+65,*c’ǔb,gaturamo,Euphonia laniirostris
+66,*wîʔ,gavião-real,Harpia harpyja
+67,*jêco,jacu,Penelope jacquacu
+68,*t’ûp,japu-do-bicoencarnado,Gymnostinops
+69,*t’ûc’uʔ,maitaca,Pionus menstruus
+70,*hôh,nambu-galinha,Tinamus guttatus
+71,*bõ̂h,nambu-grande,Tinamus major
+72,*c’ojoʔ,papagaio-moleira,Amazona farinosa
+73,*wẽh,pomba-galega,Columba cayennensis
+74,*c’ûp’,rouxinol,Icterus chrysocephalus
+75,*cahk’weto,tucano,Ramphastos sp.
+76,*wãʔ,urubu,Coragyps atratus
+77,*tǔd,urumutum,Nothocrax urumutum
+78,*takeko,asa,
+79,*bã̂kʼ,ninho,
+80,*tîpo,ovo,
+81,*wâko,amarelo,
+82,*jabaɾǔt,"azul, verde",
+83,*hawakʼ,branco 1,
+84,*tohoh,branco 2,
+85,*cʼâko,preto (maduro),
+86,*ʔacʼãb,preto,
+87,*dôh,vermelho 1,
+88,*hěd,vermelho 2,
+89,*cecoʔ,camarão,
+90,*c’axã̂b,caranguejo,gen. Trichodactylus
+91,*cohoh,caranguejo,gen. Trichodactylus
+92,*cõhõ̂b,caranguejo,gen. Trichodactylus
+93,*cucuʔ,diarréia,
+94,*dǒh,ferida 1 (causada por corte),
+95,*xōb,ferida 2,
+96,*cǒt,lombriga,Ascaris lumbricoides
+97,*jǒh,remédio,
+98,*papaʔ,sarampo,
+99,*xiho,abaixar,
+100,*heboʔ,abanar,
+101,*poʔ,abrir 1,
+102,*jeceʔ,abrir 2,
+103,*ʔahajo,acabar 1,
+104,*hũʔ,acabar 2,
+105,*jã̂bi,acabar 3,
+106,*tɤʔ,acender 1,
+107,*tǎh,acender 2,
+108,*wõtʼ,agitar 1,
+109,*wõj,agitar 2,
+110,*tã̂b,ajudar 1,
+111,*bẽcaʔ,ajudar 2,
+112,*kʼɯ̃̂pʼ,"alagar, inundar",
+113,*hawakʼo,alisar,
+114,*woj,amar,
+115,*tʼâp',amarrar,
+116,*wuʔwôpʼ,amontoar,
+117,*tʼǔkʼ,apagar,
+118,*bahad,aparecer,
+119,*ʔaʃǎcʼ,apodrecer,
+120,*kʼɯʔ,aquecer,
+121,*kʼôʔ,arrancar 1,
+122,*wocʼoʔ,arrancar 2,
+123,*kocoʔ,arranhar,
+124,*kɤ̃kʼ,arrastar,
+125,"*ja ʔo, *jaʔĩ",assar,
+126,*hõ̌j,assobiar,
+127,*pʼux,atirar,
+128,*dãrěh,babar 1,
+129,*dõhcǎwa,babar 2,
+130,*jǒjoʔ,balançar,
+131,*cʼõb,banhar,
+132,*hõ̌h,barulho,
+133,*ʔegɤʔ,beber,
+134,*cʼũ̌p,beijar,
+135,*cîʔ,beliscar 1,
+136,*cĩ̂biʔ,beliscar 2,
+137,*haw,bocejar 1,
+138,*dõh≠kʼǎʔ,bocejar 2,
+139,*ʔũhbẽh,brigar,
+140,*pʼagiʔ,brilhar,
+141,*hɯ̂d,buscar,
+142,*kʼop,buscar água,
+143,*dõk,cair,
+144,*jãb,cantar,
+145,*cekʼo,capinar,
+146,*cěto,carregar,
+147,*ʔejo,chamar,
+148,*wɯtʼ,"chegar, encontrar",
+149,*hã̌kʼ,cheirar,
+150,*ʔõ̌t,chorar,
+151,*tʼacʼiʔ,chutar,
+152,*cʼǔkʼ,coçar 1,
+153,*cĩ̂tʼoʔ,coçar 2,
+154,*ʔowopʼ,colocar,
+155,*wɯ̌h,comer 1,
+156,*wêtʼ,comer 2,
+157,*toʔox,correr,
+158,*têco,cortar 1,
+159,*hõkʼ,cortar 2,
+160,*kw̌t,cortar 3,
+161,*cuh,costurar,
+162,*cʽɯ̂w,cozinhar,
+163,*cap,crescer 1,
+164,*câkʼo,"crescer 2, subir",
+165,*hikej,cuidar,
+166,*cʼǒc,cuspir,
+167,*tukʼ,cutucar,
+168,*jãb,"dabucuri, dançar",
+169,*dõ̂ʔ,dar,
+170,*jǎʔi,defecar,
+171,*kʼãʔo,deitar 1,
+172,*jati,deitar 2,
+173,*pʼɤh,derramar,
+174,*tˀẽʔ,derreter,
+175,*cĩboʔ,descascar,
+176,*kʼõpʼ,descascar 1,
+177,*côc,descascar 2,
+178,*dãho,dizer,
+179,*ʔãho,dormir,
+180,*cʼɤʔ,embrulhar,
+181,*tûj,empurrar,
+182,*wɯtʼ,encontrar,
+183,*cĩkoʔ,enfiar,
+184,*kʼã̰̂kʼ,engasgar,
+185,*dôj,engatinhar,
+186,*jedo,esconder,
+187,*cʼatʼup,escorregar,
+188,*hɯʔ,escrever,
+189,*hĩkwukʼ,esfregar 1,
+190,*cʼǔkʼ,esfregar 2,
+191,*cʼatʼaʔi,esperar 1,
+192,*juʔ,esperar 2,
+193,*juh,espremer mandioca,
+194,*kʼaʔwôʔ,espremer mandioca,
+195,*kʼêtoʔ,estar em pé,
+196,*ci̇̂tʼo,fazer cócegas,
+197,*ʔãd,fazer sexo,
+198,*tʼok,feder,
+199,*tuh,ficar,
+200,*tʼuc,flatulência,
+201,*kʼig,flechar,
+202,*hã̂jo,focar,
+203,*ʔahũtʼuʔ,fumar,
+204,*puhuh,inchar,
+205,*hã̂b,ir,
+206,*tʼẽ̂piʔ,lamber,
+207,*cʼîtʼo,lavar,
+208,*cɤkʼ,lavrar,
+209,*jaʔwaʔ,mastigar,
+210,*tɯ̌x,mentir,
+211,*hop,mergulhar,
+212,*kʼɤc,morder,
+213,*wɤʔ,ouvir 1,
+214,*pã̌h,"ouvir 2, saber",
+215,*cʼẽ̂ʔ,pedir 1,
+216,*ʔih,pedir 2,
+217,*tʼakʼo,pendurar 1,
+218,*kʼãʔ,pendurar 2,
+219,*tokʼ,pilar,
+220,*jũ̌b,plantar,
+221,*cʼɤkʼ,pular,
+222,*kɤkʼ,puxar,
+223,*hõ̌h,queimar,
+224,*tukʼ,querer,
+225,*pob,rachar,
+226,*hɯ̃p,ralar,
+227,*cẽ̂tʼ,rasgar 1,
+228,*cẽ̌wiʔ,rasgar 2,
+229,*xapi,raspar 1,
+230,*kew,raspar 2,
+231,*hɤʔ,remar 1,
+232,*xẽjẽʔ,remar 2,
+233,*hãkʼi,respirar,
+234,*kʼâw,roçar 1,
+235,*pʼot,roçar 2,
+236,*xũ̂kʼ,roncar,
+237,*cʼêkʼo,roubar,
+238,*kʼâbo,saudade,
+239,*xop,secar 1,
+240,*wôj,secar 2,
+241,*tod,segurar,
+242,*pẽ̂b,sentar,
+243,*pʼɤkʼ,soluçar,
+244,*xǔʔ,soprar 1,
+245,*woh,soprar 2,
+246,*pahũ̌t,soprar 3,
+247,*cow,soprar com,
+248,*cop,subir (beira-rio),
+249,*pêh,subir rio,
+250,*ʔõwõp,tecar,
+251,*ʔã̂bo,temer,
+252,*dãho,ter 1,
+253,*dĩ̂h,ter 2,
+254,*cɯd,ter gordura,
+255,*tedo,tinguijar,
+256,*tʼǒʔ,tirar,
+257,*kẽ̂d,torrar 1,
+258,*cõj,torrar 2,
+259,*ciʔ,urinar 1,
+260,*kʼǎco,urinar 2,
+261,*xâpiʔ,varrer,
+262,*dẽtʼ,vir,
+263,*jěho,voltar 1,
+264,*pʼaji,voltar 2,
+265,*xã̂dõ,vomitar,
+266,*wǒh,etnia tukano,
+267,*tʼɤw,gente 1,
+268,*jixup,gente 2,
+269,*kʼɯ̃̌cʼɯʔ,herói mítico,
+270,*ji̇̂ʔo,homem 1,
+271,*bãɾaxut,homem 2,
+272,*tã̂hi,menino,
+273,*cǎw,moça 1,
+274,*bãɾûcʼ,moça 2,
+275,*ʔã̂jo,mulher,
+276,*xâto,nome,
+277,*cɤ̃w,pajé,
+278,*padxǎwo,rapaz,
+279,*wahɤ̃h,velha,
+280,*wahɤd,velho,
+281,*kʼawi,amídala,
+282,*wẽbẽʔ,barba,
+283,*toʔ,barriga 1,
+284,*wokʼ,barriga 2,
+285,*dõh≠cug,bigode,
+286,*dõ̌h,boca,
+287,*wôh,bochecha,
+288,*bõ̌h,braço,
+289,*dũ̌h,cabeça,
+290,*pãt,cabelo,
+291,*tʼapi,carne,
+292,*xupcap,corpo,
+293,*ti̇̌c,costas 1,
+294,*joʔ,costas 2,
+295,*hoxoʔ,costela 1,
+296,*kaɾapaʔ,costela 2,
+297,*cug,cotovelo,
+298,*tɤgɤʔ,dente,
+299,*jâʔi,fezes,
+300,*hǒh,fígado,
+301,*pʼoj,genitália,
+302,*jaʔipĩ̌d,intestino,
+303,*wõtʼẽh,joelho 1,
+304,*kaɾotʼdũ̌h,joelho 2,
+305,*dõhkʼâtʼi,língua,
+306,*dẽʔbõh,mão,
+307,*xup,mão direita,
+308,*cã̂ʔo,mão esquerda,
+309,*tôcoʔ,nariz,
+310,*bãtɯb,olho,
+311,*pʼûj,orelha,
+312,*kʼêgeʔ,osso 1,
+313,*kɤ̂ʔ,osso 2,
+314,*cʼi̇̂bo,pé,
+315,*hõʔtɤ̌g,peito,
+316,*ʔõgõʔ,pomo-de-ada)o,
+317,*cã̌d,púbis,
+318,*pupuh,pulmão,
+319,*pʼâk,queixo,
+320,*cʼoc,saliva 1,
+321,*dõhcǎw,saliva 2,
+322,*baji̇̂wo,sangue,
+323,*pûd,seio,
+324,*kʼɤ̂d,sobrancelha,
+325,*bãpʼoɾ,testa,
+326,*pûc,umbigo,
+327,*põhpʼokʼ,unha,
+328,*hĩ̌h,abelha (genérico),
+329,*jǒʔ,aranha 1,
+330,*cũ̌h,aranha 2,
+331,*dahdǎp,barata 1,
+332,*kabataɾ,barata 2,
+333,*tʼãdĩ,bicho-de-pé,
+334,*pʼepʼep,borboleta (genérico),
+335,*xogoʔ,borboleta,Morpho sp.
+336,*bãʔjǔʔ,caba (genérico),
+337,*ʔatɯtʼ,caba 1 (sp.),
+338,*bũ̌k,caba 2 (sp.),
+339,*kʼijoh,carapanã,
+340,*cêbi,carrapato 1,
+341,*kʼawaɾɯ̂pʼ,carrapato 2,
+342,*câjo,centopéia,
+343,*pʼuʔ,cupim,
+344,*cajo,escorpião,
+345,*bobob,formiga 1 (sp.),
+346,*kaɾaʔwaʔ,formiga 2 (sp.),
+347,*kuc,formiga-correição 1 (sp.),
+348,*cã̂wo,formiga-correição 2 (sp.),
+349,*ʔɯ̃̌h,formiga-de-fogo (sp.),
+350,*hǔt’,formiga-saúva 1 (sp.),comestível
+351,*wɤk’,formiga-saúva 2 (sp.),comestível
+352,*cũ̌cʼuʔ,grilo 1,
+353,*di̇̂tʼ,grilo 2,
+354,*popôp,larvas,
+355,*dẽ̌kʼ,mel,
+356,*cʼop,mosca,
+357,*pʼuk,mutuca,
+358,*dã̂bi,piolho,
+359,*hôʔ,pium,
+360,*wi̇̂wo,tocandira,Paraponera clavata
+361,*xûj,vaga-lume,
+362,*joʔ,acima 1,
+363,*kǔtʼ,acima 2,
+364,*cûd,dentro,
+365,*ʔɯt,embaixo,
+366,*wã̂d,fundo 1,
+367,*tõ̂p,fundo 2,
+368,*hõt,longe 1,
+369,*wɯʔ,longe 2,
+370,*takʼǎtʼ,rio acima,
+371,*jãbi,aldeia,
+372,*wɤ̂kʼ,caatinga,
+373,*ti̇̂wo,caminho,
+374,*kʼewpah,capoeira,
+375,*câtʼ,cerca 1,
+376,*cûj,cerca 2,
+377,*takʼawecʼoʔ,cerrado (ervas),
+378,*kʼâwo,roça 1,
+379,*pʼǒt,roça 2,
+380,*daʔeko,água,
+381,*bõhõtʼ,arco-íris,
+382,*hǔtʼ,areia 1,
+383,*wêg,areia 2,
+384,*pox,céu 1,
+385,*wɤ̌ʔ,céu 2,
+386,*tʼocoʔ,chuva,
+387,*wedoʔbẽ̌h,estrela,
+388,*têgo,fogo,
+389,*ʔabõ̌h,lago,
+390,*cʼɯ̌kʼ,neblina,
+391,*pâc,pedra 1,
+392,*paʔo,pedra 2,
+393,*bĩ̌ʔ,rio,
+394,*wedixôh,sol 1,
+395,*papã̂jo,sol 2,
+396,*tũ̌ʔ,solo,
+397,*cʼako,terra,
+398,*pẽj,trovão 1,
+399,*daɾuk,trovão 2,
+400,*bahûto,vento,
+401,*ʔǔw,avô,
+402,*jôh,cunhado,
+403,*ʔã̂bo,esposa,
+404,*tûgo,filha,
+405,*ʔãj,irmã,
+406,*ʔĩ̌do,mãe,
+407,*tuguʔ,marido,
+408,*ʔi̇̂po,pai 1,
+409,*ʔěʔ,pai 2,
+410,*kʼot,tio (materno),
+411,*hã̂po,peixe (genérico),
+412,*t’ob,acará (sp.),Família dos ciclídeos
+413,*xot,aracu (sp.),família dos anostomídeos
+414,*c’âʔi,arraia,Potamotrygon sp.
+415,*t’ok’,jeju (sp.),Erythrinus sp.
+416,*c’og,muçum,Symbranchus marmoratus
+417,*jâc’,peixe-boi,Trichechus inunguis
+418,*joʔogoʔ,piaba (sp.),
+419,*c’ap’ut,poraquê,Electrophorus electricus
+420,*pǒj,surubim,Pseudoplatystoma fasciatus
+421,*ʔõ̌ʔ,tambuatá,Hoplosternum littorale
+422,*p’ôj,traíra,Hoplias sp.
+423,*pecʼoʔ,escama,
+424,*'dĩ̌woʔ,isca,
+425,*jecʼ,piolho-de-peixe,
+426,*ʔãho,eu,
+427,*ʔãbo,você,
+428,*tiho,ele,
+429,*tĩ̌do,nós,
+430,*nɯ̃kʼoʔ,vocês,
+431,*hĩtʼo,eles,
+432,*hĩdĩʔ,como (inter.),
+433,*dãho,não 1,
+434,*bãʔi,não 2,
+435,*bãho,reportativo,
+436,*cʼaho,amargo,
+437,*bãcʼih,azedo 1,
+438,*kʼi̇̌ji,azedo 2,
+439,*dã̌wo,bom,
+440,*tɤ̂w,bravo,
+441,*bud,"catinga, fedor",
+442,*daʔwɤt,comprido 1,
+443,*ɾow,comprido 2,
+444,*tɤtʼ,cozido,
+445,*kʼɤ̂h,doce,
+446,*pʼaʔi,duro,
+447,*deweʔ,enrolado (fios),
+448,*câpo,fino,
+449,*jôj,forte,
+450,*wěj,fraco 1,
+451,*wej,fraco 2,
+452,*tǔt,frio 1,
+453,*hɤ̂w,frio 2,
+454,*pog,grande,
+455,*kɤʔ,grosso,
+456,*jûtʼ,mole,
+457,*-ici,pequeno,
+458,*jawikʼo,pesado,
+459,*kʼɯ̂ʔ,quente 1,
+460,*juʔ,quente 2,
+461,*daɾeb,redondo,
+462,*jôw,reto,
+463,*hɤb,seco,
+464,*tǒh,seco (árvore),
+465,*tǎwoʔ,sujo,
+466,*xupuʔ,verdadeiro,
+467,*ʔɯpʼ,vivo,
+468,*tɯ̌b,dois,
+469,*kʼukʼ,feixe 1,
+470,*bɔ̂g,feixe 2 (de fios),
+471,*tût,metade,
+472,*bǎbaʔ,"par, companheiro",
+473,*pʽako,pedaço,
+474,*wop,plural 1,
+475,*wap,plural 2,
+476,*bĩ̂c,jabuti 1,Geochelone denticulata
+477,*bãtuk’,jabuti 2,Geochelone denticulate
+478,*ʔow,calango (sp.),
+479,*ʔawɯ̂ʔ,cobra (sp.),
+480,*xâti,jacaré (genérico),
+481,*xɤ̌ʔ,jacaré (sp.),
+482,*p’ǎwo,jararaca 1,Bothrops sp.
+483,*tɤghĩ̌jo,jararaca 2,Bothrops sp.
+484,*cʼapʼǔcuʔ,lagarto (sp.),
+485,*xâgi,surucucu,Lachesis muta
+486,*cɤʔwɤb,tamaquaré (sp.),
+487,*tẽ̂d,agora,
+488,*tê,ainda,
+489,*wag,dia 1,
+490,*ʔatʼɯpʼ,dia 2,
+491,*cʼebo,noite,
+492,*cʼã̌bi,ontem,
+493,*tʼũʔ,tarde,
+494,*ɾajaʔ,anzol,
+495,*kaɾabaʔ,arco 1,
+496,*kʼig,arco 2,
+497,*pãj,bagagem,
+498,*xôh,canoa,
+499,*bã̂jo,"casa 1, buraco",
+500,*top,casa 2,
+501,*ceʔ≠bãcʼ,cesto 1,
+502,*pʼɤjo,cesto 2ª,
+503,*bãjǒɾ,colar,
+504,*hẽ̌h,cousa,
+505,*pʼoʔ,cuia 1,
+506,*ʔɤk,cuia 2,
+507,*tego,escopeta,
+508,*bɔ̃jwɤ̂kʼ,espelho 1,
+509,*jehpow,espelho 2,
+510,*wã̌d,facão,
+511,*pĩ̌h,flauta,
+512,*kʼâʔi,gancho,
+513,*wapʼ,jirau,
+514,*bã̂bo,machado,
+515,*pʼokʼ,panela 1,
+516,*caɾêj,panela 2,
+517,*põ̂t,peconha,
+518,*pɤ̂c,pente,
+519,*bõjdõ̌h,porta,
+520,*hɯ̃̌p,ralo,
+521,*jagi,rede,
+522,*jûd,roupa,
+523,*hêjeʔ,tesoura,
+524,*pʼâkʼ,zarabatana 1,
+525,*côw,zarabatana 2,
+526,*pʼâhi,árvore (genérico),
+527,*kawatʼ,escorrega-macaco; algodão 1 (sp.),Peltogyne paniculata
+528,*cawuki,algodão 2 (sp.),
+529,*jub,cipó (genérico),
+530,*ʔewêk’o,cipó-de-imbé,Philodendron imbe
+531,*caɾǒp,cipó (sp.),
+532,*tuʔ,coca,Erythroxylum coca
+533,*c’akot’,embaúba 1,Cecropia sp.
+534,*p’ôh,embaúba 2,Cecropia sp.
+535,*cɯ̂p,embira 1,família das anonáceas
+536,*cěh,embira 2,família das anonáceas
+537,*p’ɤ̂w,escorrega-macaco,Peltogyne paniculata
+538,*p’ɤ̂h,sorva,Couma sp.
+539,*hũ̂t,tabaco,Nicotiana tabacum
+540,*t’ûc,timbó (genérico),plantas ictiotóxicas
+541,*p’op’,tururi,Sterculia sp.
+542,*pʼokʼ,casca,
+543,*cʼã̂to,cerne 1,
+544,*cɤcɤ̂w,cerne 2,
+545,*ʔutʼ,espinho,
+546,*cʼôh,flor,
+547,*kʼâti,folha,
+548,*ti̇̂c,raiz 1,
+549,*kob,raiz 2,
+550,*tɯb,semente 1,
+551,*wɤ̂g,semente 2,
+552,*ʔagi,fruta (genérico),
+553,*jôj,abacaxi,Ananas sativus
+554,*bãwã̌t’,abacaxi,Ananas comosus
+555,*cěreʔ,banana 1,Musa sp.
+556,*pɯhɯ̌t,banana 2,Musa sp.
+557,*pãdã̌raʔ,banana 3,Musa sp.
+558,*jãhãb,caju,Anacardium sp.
+559,*buhuh,cucura 1,Pourouma cecropiaefolia
+560,*tarapǔʔ,cucura 2,Pourouma cecropiaefolia
+561,*piʔ,ingá 1,Inga sp.
+562,*bĩ̂d,ingá 2,Inga sp.
+563,*dôgo,ira-pixuna,Coccoloba pixuna
+564,*jawak’o,japurá,Erisma japura
+565,*bãʔo,ucuqui,Neea sp.
+566,*bãdãk’,açaí,Euterpe sp.
+567,*wakwǒh,bacaba 1,Oenocarpus sp.
+568,*cawîbo,bacaba 2,Oenocarpus sp.
+569,*c’âk’o,buriti,Mauritia flexuosa
+570,*poj,caranã,Mauritia sp.
+571,*wako,patauá,Oenocarpus bataua
+572,*c’ɯ̂w,pupunha 1,Bactris gasipaes
+573,*jɤ̌ʔ,pupunha 2,Bactris gasipaes
+574,*ʔĩ̌do,cará 1,Dioscorea sp.
+575,*c’ãh,cará 2,Dioscorea sp.
+576,*pɤp’ɤʔ,cogumelo (sp.),
+577,*jâk’,mandioca,Manihot utilissima
+578,*kow,pimenta 1,Capsicum sp.
+579,*pôh,pimenta 2,Capsicum sp.
+580,*hɤ̂w,urucum,Bixa sp.
+581,*takʼo,borracha,
+582,*cɤ̌x,carvão,
+583,*tuh,cinzas 1,
+584,*ʔôj,cinzas 2,
+585,*têgo,designativo de árvores,
+586,*tito,em forma de fio (cipó),
+587,*xâjo,floresta,
+588,*tʼuh,lenha,
+589,*dɯtʼ,toco,
+590,*dãb,veneno 1,Strychnos sp.
+591,*pɯ̌b,veneno 2 (sp.),
