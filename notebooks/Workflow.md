@@ -13,33 +13,37 @@
 8. strip_parentheses_spaces.ipynb
 9. non_ipa_characters.ipynb
     > Apply several processes to clean and enrich the HGN data.
-10. match_glottocodes.ipynb
+10. segment.ipynb
+    > Segments the phonological forms into tokenized versions.
+11. match_glottocodes.ipynb
     > Matches language names to glottocodes in languages_with_glottocodes.csv to the main HGN vocabulary file.
-11. match_glosses.ipynb
+12. match_glosses.ipynb
     > Matches glosses in glosas_unicas_hgn-mapped.tsv to the main HGN vocabulary file.
 
 # Processing the protoform data
-12. fix_proto.ipynb
+13. fix_proto.ipynb
     > Cleans the source protoforms files.
-13. concepticon matching.ipynb
+14. concepticon matching.ipynb
     > (Re-used) Maps the proto-forms to Concepticon concepts.
-14. mapping_proto.ipynb
+15. segment.ipynb
+    > (Re-used) Segments the phonological forms into tokenized versions.
+16. mapping_proto.ipynb
     > Adds the Gloss column to the main proto dataset.
 
 # Incorporating the lexibank data
-15. join_cldf_files.ipynb
+17. join_cldf_files.ipynb
     > Joins the 'forms', 'languages' and 'parameters' files of the lexibank sources.
-16. merge_lexibanks.ipynb
+18. merge_lexibanks.ipynb
     > Consolidates all joined lexibank datasets into a single file.
-17. merge_hgn_lexibank.ipynb
+19. merge_hgn_lexibank.ipynb
     > Incorporates the lexibank datasets into our main file.
-18. drop_duplicates.ipynb
+20. drop_duplicates.ipynb
     > Drops duplicate entries present in both the HGN dataset and the lexibank ones.
 
 # Adding geographical metadata
-19. mapping_coordinates_glottolog.ipynb
+21. mapping_coordinates_glottolog.ipynb
     > Adds coordinates based on Glottolog's 'languages_and_dialects_geo.csv'
 
 # Generating the CLDF compliant files
-20. cldf.ipynb
-22. json.ipynb
+22. cldf.ipynb
+23. json.ipynb
